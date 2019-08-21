@@ -16,7 +16,7 @@ Python 3.7 <br>
 
 ### Analysis
 
- - Exploratory Data Analysis of property sales in King Country, USA 
+ - Exploratory Data Analysis of property sales in King County, USA 
  - Map visualisations
  - Regression models and Feature evaluation analysis
  - Regression model comparison
